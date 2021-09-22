@@ -1,4 +1,11 @@
 {
+  "name": "Perry-Bot",
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x",
+    "yarn": "1.x"
+    
+  },
   "_moduleAliases": {
     "@": "dist"
   },
